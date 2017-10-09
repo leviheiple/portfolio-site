@@ -12,6 +12,14 @@ p {
 	margin-right: 0.5em;
 }
 
+blockquote {
+	font-size: 17px;
+	line-height: 28px;
+	font-weight: 300;
+	font-family: "Merriweather", serif;
+	color: #443235;
+}
+
 h1 {
 	font-family: "Merriweather Sans", sans-serif;
 	font-size: 35px;
